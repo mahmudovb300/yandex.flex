@@ -1,0 +1,16 @@
+.content {
+    width: 80vw;
+}
+
+.searhc {
+    width: 100%;
+}
+
+.searhc input, .searhc button{
+    display: block;
+
+.ad{
+    height: 100px;
+    background-color: yellow;
+    width: 100%;
+}
